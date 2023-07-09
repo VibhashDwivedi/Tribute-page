@@ -1,0 +1,35 @@
+main {
+  background-color: rgb(208, 253, 253);
+  border: 5px solid black;
+  margin: 0px;
+  font-size: larger;
+}
+#title {
+  text-align: center;
+  background-color: aquamarine;
+}
+#img-div {
+  text-align: center;
+}
+#tribute-info {
+  background-color: rgb(218, 191, 172);
+  margin-left: 240px;
+  margin-right: 240px;
+}
+#info {
+  /*padding-left: 340px;*/
+  font-size: large;
+}
+#image {
+  width: 600px;
+  height: 450px;
+  border-radius: 5%;
+  border-style: double;
+}
+#footer {
+  text-align: center;
+  line-height: 1mm;
+}
+.class1 {
+  margin-top: -25px;
+}
